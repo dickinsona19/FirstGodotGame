@@ -31,7 +31,8 @@ without to many issues.
 - [X] D-1 ...
 - [X] C-1 ...
     - This is not my full github iteration cycle, I had a few issues push to the previous github halfway through. My previous Github iteration cycle can be seen below
-    -/n https://github.com/dickinsona19/FirstGodotGame
+    
+    - https://github.com/dickinsona19/FirstGodotGame
 - [X] C-2
 - [X] B-1 
 - [X] B-2
